@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23651" started-at="2014-12-19T10:30:11Z" finished-at="2014-12-19T10:30:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23651" started-at="2014-12-19T10:30:11Z" finished-at="2014-12-19T10:30:35Z">
+      <class name="Tests.LaunchPetStore">
+        <test-method status="PASS" signature="RegisterUser()[pri:0, instance:Tests.LaunchPetStore@fb95de0]" name="RegisterUser" duration-ms="23634" started-at="2014-12-19T16:00:11Z" finished-at="2014-12-19T16:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterUser -->
+      </class> <!-- Tests.LaunchPetStore -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
