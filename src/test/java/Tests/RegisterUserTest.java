@@ -23,6 +23,7 @@ public class RegisterUserTest {
 	        } else {
 
 	        }
+	        
 	        driver.quit();        
 	}
 	
