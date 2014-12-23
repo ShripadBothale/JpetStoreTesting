@@ -20,11 +20,13 @@ public class RegisterUserTest {
 	        
 	        if (actualTitle.contentEquals(expectedTitle)){
 	            System.out.println("Test Passed!");
-	        } else {
+	        } 
+	        else 
+	        {
 
 	        }
 	        
-	        driver.quit();        
+	        //driver.quit();        
 	}
 	
 }
