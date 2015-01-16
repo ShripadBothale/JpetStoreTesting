@@ -17,7 +17,7 @@ public class RegisterUserTest {
 		String expectedTitle = "Welcome to JPetStore 6";
 		 String actualTitle = "";
 		 actualTitle = driver.getTitle(); 
-	        
+	       
 	        if (actualTitle.contentEquals(expectedTitle)){
 	            System.out.println("Test Passed!");
 	        } 
